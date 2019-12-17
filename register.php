@@ -3,6 +3,6 @@
 		<title>Register</title>
 	</head>
 	<body>
-		<h1>Registre-se</h1>
+		<h1>Registre-se!</h1>
 	</body>	
 </html>
